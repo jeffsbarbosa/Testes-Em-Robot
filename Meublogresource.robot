@@ -30,6 +30,6 @@ Acessar o post "${TEXTO_PESQUISA}"
 Conferir se o texto "${TEXTO_DESEJADO}" 
     Page Should Contain    text=${TEXTO_DESEJADO}
 
-
+#Comentario
   
 
