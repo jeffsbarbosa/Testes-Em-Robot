@@ -1,7 +1,7 @@
 *** Settings ***
 Resource  page_objects/page_login.robot
 Test Setup  Acessar a página do site
-#Test Teardown  Fechar o navegador
+Test Teardown  Fechar o navegador
 
 
 *** Test Cases ***
